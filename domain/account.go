@@ -1,8 +1,8 @@
 package domain
 
 import (
-	"github.com/ankit/banking/dto"
-	"github.com/ankit/banking/errs"
+	"github.com/ankitsingh10194/banking/dto"
+	"github.com/ankitsingh10194/banking/errs"
 )
 
 type Account struct {

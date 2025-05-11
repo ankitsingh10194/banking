@@ -1,4 +1,4 @@
-module github.com/ankit/banking
+module github.com/ankitsingh10194/banking
 
 go 1.24.1
 

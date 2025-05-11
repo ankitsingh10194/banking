@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/ankit/banking/dto"
-	"github.com/ankit/banking/service"
+	"github.com/ankitsingh10194/banking/dto"
+	"github.com/ankitsingh10194/banking/service"
 	"github.com/gorilla/mux"
 )
 

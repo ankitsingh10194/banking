@@ -7,8 +7,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/ankit/banking/domain"
-	"github.com/ankit/banking/service"
+	"github.com/ankitsingh10194/banking/domain"
+	"github.com/ankitsingh10194/banking/service"
 	"github.com/gorilla/mux"
 	"github.com/jmoiron/sqlx"
 )

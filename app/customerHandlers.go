@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/ankit/banking/service"
+	"github.com/ankitsingh10194/banking/service"
 	"github.com/gorilla/mux"
 )
 
