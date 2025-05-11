@@ -1,9 +1,9 @@
 package service
 
 import (
-	"github.com/ankit/banking/domain"
-	"github.com/ankit/banking/dto"
-	"github.com/ankit/banking/errs"
+	"github.com/ankitsingh10194/banking/domain"
+	"github.com/ankitsingh10194/banking/dto"
+	"github.com/ankitsingh10194/banking/errs"
 )
 
 type CustomerService interface {

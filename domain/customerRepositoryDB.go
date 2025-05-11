@@ -6,8 +6,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/ankit/banking/errs"
-	"github.com/ankit/banking/logger"
+	"github.com/ankitsingh10194/banking/errs"
+	"github.com/ankitsingh10194/banking/logger"
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/jmoiron/sqlx"
 )

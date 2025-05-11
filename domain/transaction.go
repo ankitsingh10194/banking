@@ -3,8 +3,8 @@ package domain
 import (
 	"strings"
 
-	"github.com/ankit/banking/dto"
-	"github.com/ankit/banking/errs"
+	"github.com/ankitsingh10194/banking/dto"
+	"github.com/ankitsingh10194/banking/errs"
 )
 
 type Transaction struct {

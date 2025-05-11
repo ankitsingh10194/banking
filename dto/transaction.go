@@ -3,7 +3,7 @@ package dto
 import (
 	"strings"
 
-	"github.com/ankit/banking/errs"
+	"github.com/ankitsingh10194/banking/errs"
 )
 
 type TransactionRequest struct {

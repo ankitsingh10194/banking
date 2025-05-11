@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/ankit/banking/app"
-	"github.com/ankit/banking/logger"
+	"github.com/ankitsingh10194/banking/app"
+	"github.com/ankitsingh10194/banking/logger"
 )
 
 func main() {
